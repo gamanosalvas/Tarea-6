@@ -4,11 +4,11 @@ Fundamentos de Circuitos Electricos
 
 Informe Tarea Nº6
 
-Integrantes: Allauca Steven, Luero Danilo, Manosalvas Gabriel.
+Integrantes: Manosalvas Gabriel
 
 Carrera: Ing. en Electrónica y Automatización
 
-NRC: 10133
+NRC: 7309
 
 Docente: Ing. Darwin Alulema
 
